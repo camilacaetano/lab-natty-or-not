@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+#Projeto Natty or Not
 
-## 🚀 Introdução
+📒 Descrição
+Este projeto foi desenvolvido como parte do Lab "Natty or Not" da DIO. Inspirado na hype do fisiculturismo, exploramos o uso de IAs Generativas para criar conteúdos realistas e interessantes. O objetivo é demonstrar o potencial dessas tecnologias e criar um portfólio de projetos que pode ser um diferencial em entrevistas técnicas.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
+OpenAI GPT-4: Para geração de texto
+DALL-E 2: Para geração de imagens
+Deepfake: Para criação de vídeos realistas
+Git: Para controle de versão e colaboração
+GitHub: Para hospedagem do repositório
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+Ideação: Definimos o conceito do projeto, inspirado pela tendência "Natty or Not" do fisiculturismo.
+Pesquisa: Estudamos as capacidades das IAs Generativas e identificamos as ferramentas que melhor atenderiam às nossas necessidades.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Desenvolvimento:
+Utilizamos GPT-4 para gerar descrições de atletas fictícios, comparando-os entre "natty" (natural) e "not" (não natural).
+Usamos DALL-E 2 para criar imagens de atletas baseadas nas descrições geradas.
+Aplicamos deepfake para criar vídeos curtos com avatares virtuais discutindo os conceitos de "natty" e "not".
+Edição e Refinamento: Ajustamos o conteúdo gerado para garantir realismo e coerência.
+Documentação: Criamos este README.md e outros documentos de suporte para detalhar o projeto.
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+🚀 Resultados
+Texto Gerado: Descrições realistas de atletas e debates sobre o uso de substâncias no fisiculturismo.
+Imagens Geradas: Retratos de atletas fictícios criados com DALL-E 2.
+Vídeos Criados: Curta-metragens com avatares virtuais discutindo o conceito de "natty" e "not".
